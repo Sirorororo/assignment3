@@ -46,16 +46,19 @@ p a:hover {
 	width: 960px;
 }
 #header a.logo {
-	display: block;
-	margin: 0 auto;
+	/* display: flex; */
+	margin: 0 ;
 	padding: 0;
 	width: 340px;
+	/* border: 1px solid black; */
+	background-size: cover;
 }
 #header a.logo img {
 	border: 0;
-	display: block;
+	/* display: flex; */
 	margin: 0;
 	padding: 0;
+	/* border: 1px solid black; */
 }
 #header ul {
 	margin: 0;
